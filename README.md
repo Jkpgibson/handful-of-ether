@@ -7,3 +7,8 @@ TODOs
 - Organize the data so we can make conclusions from it
 - ? ? ?
 - Profit
+
+## Parser
+- 
+
+## 
